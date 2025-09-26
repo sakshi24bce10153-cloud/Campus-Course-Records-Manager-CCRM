@@ -1,0 +1,4 @@
+code,title,credits,instructorId,instructorName,instructorEmail,instructorDob,semester,department,active
+CSC101,Intro to Computer Science,4,1001,Dr. Alice,alice@example.com,1970-06-30,FALL,Computer Science,true
+MAT101,Calculus I,3,1002,Dr. Bob,bob@example.com,1968-03-15,FALL,Mathematics,true
+PHY101,Physics I,4,1003,Dr. Carol,carol@example.com,1975-08-25,FALL,Physics,false

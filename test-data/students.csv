@@ -1,0 +1,4 @@
+id,regNo,name,email,dateOfBirth,active
+1,REG001,John Doe,john.doe@example.com,2000-05-15,true
+2,REG002,Jane Smith,jane.smith@example.com,1999-11-22,true
+3,REG003,Bob Johnson,bob.johnson@example.com,2001-01-10,false
